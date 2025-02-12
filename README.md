@@ -11,12 +11,17 @@ The dataset is ideal for tourism analysis, trend predictions, and comparative st
 File: most-visited-countries-2024.csv
 
 # Column Names
-country	Name of the country	Object
-MostVisited_NumOfArrivalsPredictive_Millions_2024	Predicted number of tourist arrivals (in millions) for 2024	Float
-MostVisited_NumOfArrivals_Millions_2023	Number of tourist arrivals (in millions) for 2023	Float
-MostVisited_NumOfArrivals_Millions_2022	Number of tourist arrivals (in millions) for 2022	Float
-MostVisited_NumOfArrivals_WorldBank	Historical data of tourist arrivals (in millions) from the World Bank	Float
-MostVisited_DataYear_WorldBank	Year corresponding to the World Bank data	Integer
+country
+
+MostVisited_NumOfArrivalsPredictive_Millions_2024	Predicted number of tourist arrivals (in millions) 
+
+MostVisited_NumOfArrivals_Millions_2023	Number of tourist arrivals (in millions) 
+
+MostVisited_NumOfArrivals_Millions_2022	Number of tourist arrivals (in millions) 
+
+MostVisited_NumOfArrivals_WorldBank	Historical data of tourist arrivals (in millions)
+
+MostVisited_DataYear_WorldBank	
 
 # Usage
 
